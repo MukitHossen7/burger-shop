@@ -12,7 +12,7 @@ const Footer = () => {
   return (
     <footer style={styles.footer}>
       <p>
-        &copy; {new Date().getFullYear()} Your Company. All rights reserved.
+        &copy; {new Date().getFullYear()} Your Company All rights reserved.
       </p>
     </footer>
   );
