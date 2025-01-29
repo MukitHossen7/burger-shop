@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   const headingStyle = {
     color: 'green',
-    fontSize: '24px',
+    fontSize: '28px',
     textAlign: 'center',
   };
 
