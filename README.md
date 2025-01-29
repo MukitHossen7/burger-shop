@@ -45,9 +45,9 @@
   - Order Processing and Payment Integration.
   - Role-based access control for admin and users.
 
-<!-- --- -->
+---
 
-<!-- ## **2. Non-Functional Requirements**
+## **2. Non-Functional Requirements**
 
 - **Performance:**
   - Fast response times (< 500ms for key API endpoints).
@@ -59,9 +59,9 @@
   - Modular and clean code architecture.
 - **Security:**
   - Data encryption for sensitive information.
-  - Secure session management. -->
+  - Secure session management.
 
-<!-- --- -->
+---
 
 ## **3. API Route Specifications**
 
